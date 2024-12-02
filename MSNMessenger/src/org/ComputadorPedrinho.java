@@ -1,3 +1,8 @@
+
+import app.FBMessenger;
+import app.MSNMessenger;
+import app.TelegramMessenger;
+
 public class ComputadorPedrinho {
     public static void main(String[] args) {
         //Iniciando MSN Messenger
